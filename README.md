@@ -1,4 +1,4 @@
-# TUES - Työuupumuksen Ennaltaehkäisevä Seuranta'
+# TUES - Työuupumuksen Ennaltaehkäisevä Seuranta
 Sovellus on kehitetty palautumisen ja stressin seurantaan hyödyntäen sykevälivaihtelua (HRV). Se tarjoaa kaksi eri käyttöliittymää: **käyttäjäalustan** ja **ammattilaisnäkymän**.
 
 ## Sovelluksen linkki
